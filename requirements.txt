@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+pillow
+fpdf2
+openpyxl
+qrcode[pil]
+opencv-python-headless
